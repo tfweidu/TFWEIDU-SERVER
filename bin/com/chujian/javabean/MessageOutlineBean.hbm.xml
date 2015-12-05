@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2015-11-4 20:46:44 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="com.chujian.javabean.MessageOutlineBean" table="MESSAGEOUTLINEBEAN">
+        <id name="toId" type="java.lang.String">
+            <column name="TOID" />
+            <generator class="assigned" />
+        </id>
+        <property name="fromId" type="java.lang.String">
+            <column name="FROMID" />
+        </property>
+        <property name="content" type="java.lang.String">
+            <column name="CONTENT" />
+        </property>
+        <property name="time" type="java.lang.String">
+            <column name="TIME" />
+        </property>
+    </class>
+</hibernate-mapping>

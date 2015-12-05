@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2015-11-4 21:49:23 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="com.chujian.javabean.UserFriendOutlineYesNoBean" table="USERFRIENDOUTLINEYESNOBEAN">
+        <id name="userPhone" type="java.lang.String">
+            <column name="USERPHONE" />
+            <generator class="assigned" />
+        </id>
+        <property name="friendPhone" type="java.lang.String">
+            <column name="FRIENDPHONE" />
+        </property>
+        <property name="flag" type="java.lang.String">
+            <column name="FLAG" />
+        </property>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="lib/mysql-connector-java-5.1.27-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/antlr-2.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/dom4j-1.6.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hibernate-commons-annotations-4.0.2.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hibernate-core-4.2.21.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hibernate-jpa-2.0-api-1.0.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/javassist-3.18.1-GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-logging-3.1.0.GA.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/jboss-transaction-api_1.1_spec-1.0.1.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/c3p0-0.9.2.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/hibernate-c3p0-4.2.21.Final.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/mchange-commons-java-0.2.3.4.jar"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry exported="true" kind="lib" path="D:/ANDROIIDPOCKET/apacheminacode/apache-mina-2.0.9/dist/mina-core-2.0.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ANDROIIDPOCKET/apacheminacode/apache-mina-2.0.9/dist/mina-example-2.0.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ANDROIIDPOCKET/apacheminacode/apache-mina-2.0.9/dist/mina-filter-compression-2.0.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ANDROIIDPOCKET/apacheminacode/apache-mina-2.0.9/dist/mina-http-2.0.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ANDROIIDPOCKET/apacheminacode/apache-mina-2.0.9/dist/mina-integration-beans-2.0.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ANDROIIDPOCKET/apacheminacode/apache-mina-2.0.9/dist/mina-integration-jmx-2.0.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ANDROIIDPOCKET/apacheminacode/apache-mina-2.0.9/dist/mina-integration-ognl-2.0.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ANDROIIDPOCKET/apacheminacode/apache-mina-2.0.9/dist/mina-integration-xbean-2.0.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ANDROIIDPOCKET/apacheminacode/apache-mina-2.0.9/dist/mina-statemachine-2.0.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ANDROIIDPOCKET/apacheminacode/apache-mina-2.0.9/dist/mina-transport-apr-2.0.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ANDROIIDPOCKET/apacheminacode/apache-mina-2.0.9/lib/slf4j-api-1.7.7.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/ANDROIIDPOCKET/apacheminacode/slf4j-1.7.12/slf4j-nop-1.7.12.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

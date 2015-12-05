@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<!-- Generated 2015-11-4 11:21:35 by Hibernate Tools 3.4.0.CR1 -->
+<hibernate-mapping>
+    <class name="com.chujian.javabean.UserInfoBean" table="USERINFOBEAN">
+        <id name="id" type="java.lang.Integer">
+            <column name="ID" />
+            <generator class="native" />
+        </id>
+        <property name="userPhone" type="java.lang.String">
+            <column name="USERPHONE" />
+        </property>
+        <property name="userPwd" type="java.lang.String">
+            <column name="USERPWD" />
+        </property>
+        <property name="userNickname" type="java.lang.String">
+            <column name="USERNICKNAME" />
+        </property>
+        <property name="userSex" type="java.lang.String">
+            <column name="USERSEX" />
+        </property>
+        <property name="userBirthday" type="java.lang.String">
+            <column name="USERBIRTHDAY" />
+        </property>
+    </class>
+</hibernate-mapping>
